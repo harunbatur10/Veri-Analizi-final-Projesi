@@ -5,7 +5,7 @@ Bu proje, veri analizi dersi kapsamında hazırlanmış bir makine öğrenmesi p
 Veri Seti
 Kaggle'dan temin edilen `synthetic_fraud_dataset.csv` kullanılmıştır.
 - Satır Sayısı: 10.000
-- Problem Türü:Sınıflandırma (Classification)
+- Problem Türü:Sınıflandırma 
 - Hedef Değişken:`is_fraud` (0: Normal, 1: Dolandırıcılık)
 
 Kullanılan Yöntemler
@@ -16,8 +16,8 @@ Proje şu adımları içermektedir:
 4. Değerlendirme:** Accuracy, Confusion Matrix ve F1-Score metrikleri ile model başarısı ölçülmüştür.
 
 Sonuçlar
-Model, test veri seti üzerinde %100 doğruluk (Accuracy) oranına ulaşmıştır. Sentetik veri setinin belirgin yapısı nedeniyle model, dolandırıcılık işlemlerini (Fraud) hatasız ayırt edebilmiştir.
-- En Önemli Özellik:İşlem Tutarı (Amount) ve Cihaz Risk Skoru.
+Model, test veri seti üzerinde %100 doğruluk  oranına ulaşmıştır. Sentetik veri setinin belirgin yapısı nedeniyle model, dolandırıcılık işlemlerini (Fraud) hatasız ayırt edebilmiştir.
+- En Önemli Özellik:İşlem Tutarı  ve Cihaz Risk Skoru.
 
 Kurulum ve Çalıştırma
 Gerekli kütüphaneler: pandas, numpy, seaborn, matplotlib, sklearn
