@@ -16,7 +16,7 @@ Proje şu adımları içermektedir:
 4. Değerlendirme:** Accuracy, Confusion Matrix ve F1-Score metrikleri ile model başarısı ölçülmüştür.
 
 Sonuçlar
-Model, test veri seti üzerinde %100 doğruluk  oranına ulaşmıştır. Sentetik veri setinin belirgin yapısı nedeniyle model, dolandırıcılık işlemlerini (Fraud) hatasız ayırt edebilmiştir.
+Model, test veri seti üzerinde %100 doğruluk  oranına ulaşmıştır. Sentetik veri setinin belirgin yapısı nedeniyle model, dolandırıcılık işlemlerini hatasız ayırt edebilmiştir.
 - En Önemli Özellik:İşlem Tutarı  ve Cihaz Risk Skoru.
 
 Kurulum ve Çalıştırma
